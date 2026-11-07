@@ -46,9 +46,9 @@ Questions you got lost on. Redo these before the exam.
 
 | # | Topic | Notes pages | Tutorial Qs | Weight | Notes | Qs done |
 |---|---|---|---|---|---|---|
-| 11 | [Critical points and the 2-variable second derivatives test](notes/11-critical-points-2var.md) | 65–72 | [S4 Q7, Q8, Q13](questions/11-critical-points-2var.md) | ●●● | ☐ | ☐ |
+| 11 | [Critical points and the 2-variable second derivatives test](notes/11-critical-points-2var.md) | 65–72 | [S4 Q7, Q8, Q12, Q13](questions/11-critical-points-2var.md) | ●●● | ☐ | ☐ |
 | 12 | [Absolute max and min on a closed region](notes/12-absolute-extrema.md) | 65–75 | [S4 Q14](questions/12-absolute-extrema.md) | ●● | ☐ | ☐ |
-| 13 | [3+ variables: leading principal minors test](notes/13-critical-points-nvar.md) | 76–85 | [S4 Q9–Q12, Exam Q5b](questions/13-critical-points-nvar.md) | ●●● (exam Q5) | ☐ | ☐ |
+| 13 | [3+ variables: leading principal minors test](notes/13-critical-points-nvar.md) | 76–85 | [S4 Q9–Q11, Exam Q5b](questions/13-critical-points-nvar.md) | ●●● (exam Q5) | ☐ | ☐ |
 
 ## Chapter 7: Constrained optimisation (notes ch 7)
 
