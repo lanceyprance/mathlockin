@@ -37,12 +37,12 @@ $$\nabla f = \langle f_x, f_y \rangle \quad\text{or}\quad \langle f_x, f_y, f_z 
 
 $$D_{\mathbf u}f = \nabla f \cdot \mathbf u \qquad \mathbf u \text{ must be a UNIT vector}$$
 
-$$\mathbf u = \frac{\mathbf v}{\|\mathbf v\|} \qquad \|\langle a, b, c\rangle\| = \sqrt{a^2+b^2+c^2}$$
+$$\mathbf u = \frac{\mathbf v}{\Vert \mathbf v\Vert } \qquad \Vert \langle a, b, c\rangle\Vert  = \sqrt{a^2+b^2+c^2}$$
 
 | Question | Direction | Rate |
 |---|---|---|
-| fastest increase | $\nabla f$ | $\|\nabla f\|$ |
-| fastest decrease | $-\nabla f$ | $-\|\nabla f\|$ |
+| fastest increase | $\nabla f$ | $\Vert \nabla f\Vert $ |
+| fastest decrease | $-\nabla f$ | $-\Vert \nabla f\Vert $ |
 | no change | any u with $\nabla f \cdot \mathbf u = 0$ | 0 |
 
 **Memory hook:**
@@ -56,7 +56,7 @@ Trick for 2D: ⟨a, b⟩ is orthogonal to ⟨b, −a⟩ and ⟨−b, a⟩.
 
 $$\langle v_1, v_2, v_3 \rangle \cdot \langle w_1, w_2, w_3 \rangle = v_1w_1 + v_2w_2 + v_3w_3$$
 
-$$\mathbf v \cdot \mathbf w = \|\mathbf v\|\,\|\mathbf w\|\cos\theta$$
+$$\mathbf v \cdot \mathbf w = \Vert \mathbf v\Vert \,\Vert \mathbf w\Vert \cos\theta$$
 
 - **Orthogonal** (perpendicular) ⇔ dot product = 0.
 - A **unit vector** has length 1.
@@ -184,7 +184,7 @@ At a point where ∇f ≠ 0:
 
 <br>
 
-**Why (one line):** $D_{\mathbf u}f = \|\nabla f\|\,\|\mathbf u\|\cos\theta = \|\nabla f\|\cos\theta$. cos θ is biggest (1) at θ = 0, smallest (−1) at θ = 180°, and 0 at 90°.
+**Why (one line):** $D_{\mathbf u}f = \Vert \nabla f\Vert \,\Vert \mathbf u\Vert \cos\theta = \Vert \nabla f\Vert \cos\theta$. cos θ is biggest (1) at θ = 0, smallest (−1) at θ = 180°, and 0 at 90°.
 
 <br>
 
@@ -214,10 +214,10 @@ At a point where ∇f ≠ 0:
 
 | Asked for | Answer |
 |---|---|
-| direction of fastest increase | $\mathbf u = \frac{\nabla f(P)}{\|\nabla f(P)\|}$ (or just "the direction of ∇f(P)") |
-| maximum rate of increase | $\|\nabla f(P)\|$ |
+| direction of fastest increase | $\mathbf u = \frac{\nabla f(P)}{\Vert \nabla f(P)\Vert }$ (or just "the direction of ∇f(P)") |
+| maximum rate of increase | $\Vert \nabla f(P)\Vert $ |
 | direction of fastest decrease | $-\mathbf u$ |
-| that rate | $-\|\nabla f(P)\|$ |
+| that rate | $-\Vert \nabla f(P)\Vert $ |
 | directions of zero change (2D) | if ∇f(P) = ⟨a, b⟩: ±⟨b, −a⟩ / ‖⟨a, b⟩‖ |
 | "is there a direction with rate 14?" | only if \|14\| ≤ ‖∇f(P)‖ |
 
@@ -244,7 +244,7 @@ $\mathbf u = \left\langle \frac{7}{\sqrt{53}}, -\frac{2}{\sqrt{53}} \right\rangl
 
 Exactly the same formulas, with a third component.
 
-$D_{\mathbf u}f = \nabla f \cdot \mathbf u = \|\nabla f\|\cos\theta$.
+$D_{\mathbf u}f = \nabla f \cdot \mathbf u = \Vert \nabla f\Vert \cos\theta$.
 
 <br>
 
@@ -292,7 +292,7 @@ $$D_{\mathbf u}T(P) = \frac{1}{\sqrt{14}}(4 - 16 + 0) = -\frac{12}{\sqrt{14}}$$
 
 **(d) Direction of fastest increase:** the direction of ∇T(P) = ⟨4, 8, 0⟩.
 
-**(e) Maximum rate:** $\|\langle 4, 8, 0\rangle\| = \sqrt{80} = 4\sqrt5$.
+**(e) Maximum rate:** $\Vert \langle 4, 8, 0\rangle\Vert  = \sqrt{80} = 4\sqrt5$.
 
 All match the official answers.
 

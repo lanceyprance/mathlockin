@@ -172,6 +172,10 @@ Check y(0): −2 − 1/5 + 2 − 89/5 − 2 = −20 ✓.
 | f = Ce^(γx), γ not a root | y_p = Ce^(γx)/p(γ) (§4) |
 | check your answer | substitute into the DE (notes p130) |
 
+![Check your answer](../img/19/p130-check.png)
+
+Always worth the 30 seconds: substitute y into the left side and check you get the right side.
+
 ---
 
 Next: [End-of-topic test](../questions/19-higher-order-odes.md)

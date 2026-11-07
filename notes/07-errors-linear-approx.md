@@ -157,6 +157,14 @@ $100\frac{\Delta V}{V} \approx 2(1) + 1(2) = 4\%$.
 - Right (two variables): the pink tangent plane hugs the surface z = f(x, y) near (a, b, f(a, b)).
 - L(x, y) is the height of that tangent plane. Close to (a, b), it's almost the same as the surface.
 
+<br>
+
+![The basic idea](../img/07/p31-idea.png)
+
+**How to read this box:**
+
+L is linear in x and y, so it's easy to work with. It agrees with f exactly at (a, b). For x near a and y near b, f(x, y) ≈ L(x, y).
+
 ---
 
 ### 📐 Method: estimate a number with linear approximation

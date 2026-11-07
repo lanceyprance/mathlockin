@@ -31,7 +31,7 @@ Then click to check.
 
 $$|H_1| = f_{xx}, \qquad |H_2| = \begin{vmatrix} f_{xx} & f_{xy} \\ f_{yx} & f_{yy} \end{vmatrix}, \qquad |H_3| = \det H$$
 
-| Signs of $\|H_1\|, \|H_2\|, \|H_3\|$ | H is | Critical point is |
+| Signs of $\Vert H_1\Vert , \Vert H_2\Vert , \Vert H_3\Vert $ | H is | Critical point is |
 |---|---|---|
 | + + + | positive definite | **local minimum** |
 | − + − | negative definite | **local maximum** |
@@ -139,7 +139,7 @@ For two variables you may use the quick test from Topic 11. For three or more, y
 | 1 | Find ∇f = ⟨f_x, f_y, f_z⟩ and set it to ⟨0, 0, 0⟩. |
 | 2 | Solve the three equations together (often linear: substitute one into another). |
 | 3 | Build the 3 × 3 Hessian. Substitute the point. |
-| 4 | Work out $\|H_1\|$, $\|H_2\|$, $\|H_3\|$. |
+| 4 | Work out $\Vert H_1\Vert $, $\Vert H_2\Vert $, $\Vert H_3\Vert $. |
 | 5 | Read the sign pattern: + + + min, − + − max, else saddle. |
 | 6 | If asked: the value f(P). |
 

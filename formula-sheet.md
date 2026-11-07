@@ -42,10 +42,10 @@ $$L(x,y) = f(a,b) + f_x(a,b)(x-a) + f_y(a,b)(y-b)$$
 
 $$\nabla f = \langle f_x, f_y, f_z \rangle \qquad D_{\mathbf{u}} f = \nabla f \cdot \mathbf{u} \quad (\mathbf{u} \text{ a unit vector})$$
 
-- Fastest increase: direction $\nabla f$, rate $\|\nabla f\|$.
-- Fastest decrease: direction $-\nabla f$, rate $-\|\nabla f\|$.
+- Fastest increase: direction $\nabla f$, rate $\Vert \nabla f\Vert $.
+- Fastest decrease: direction $-\nabla f$, rate $-\Vert \nabla f\Vert $.
 - Zero change: directions orthogonal to $\nabla f$.
-- Unit vector: $\mathbf{u} = \frac{\mathbf{v}}{\|\mathbf{v}\|}$, $\|\langle a,b,c\rangle\| = \sqrt{a^2+b^2+c^2}$.
+- Unit vector: $\mathbf{u} = \frac{\mathbf{v}}{\Vert \mathbf{v}\Vert }$, $\Vert \langle a,b,c\rangle\Vert  = \sqrt{a^2+b^2+c^2}$.
 
 ## Tangent lines and planes (Topic 9)
 

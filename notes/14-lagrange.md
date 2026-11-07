@@ -150,6 +150,23 @@ With ℓ constraints g₁ = c₁, …, g_ℓ = c_ℓ, use one multiplier each:
 - Points on **both** constraints = where they meet: an ellipse (black curve).
 - An ellipse is compact, so f = 2y − z has a max and a min on it.
 
+<br>
+
+![Ellipse constraint and its inside](../img/14/p97-fig.png)
+
+**How to read this diagram:**
+
+- Notes Ex 7.12: f = x² + y² on the ellipse 3x² + 4y² = 5 (right: the black curve on the surface) and on the filled ellipse 3x² + 4y² ≤ 5 (left).
+- On the curve: Lagrange. On the filled region: Topic 12 (inside + edge).
+
+<br>
+
+![Inequality constraints](../img/14/p93-ineq.png)
+
+**How to read this box:**
+
+For a constraint g ≤ c: check critical points of f strictly inside (g < c), use Lagrange on the edge (g = c), then compare. It's Topic 12's method with Lagrange doing the boundary.
+
 ---
 
 ### 📐 Method: Lagrange, two constraints

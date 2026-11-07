@@ -36,7 +36,6 @@ SPEC = {
    'p20-geom': (20,[227, 571, 896, 1063]),
    'p21-method': (21,'Method for Finding Partial'),
    'p21-plane': (21,[318, 469, 810, 896]),
-   'p21-prop': (21,'Proposition 2.5'),
  },
  '05': {
    'p23-rule12': (23,'Rule “1-2”'),

@@ -250,7 +250,7 @@ From: §4
 
 ### M5: Explain
 
-Using $D_{\mathbf u}f = \|\nabla f\|\cos\theta$, explain why f has no change in directions orthogonal to ∇f.
+Using $D_{\mathbf u}f = \Vert \nabla f\Vert \cos\theta$, explain why f has no change in directions orthogonal to ∇f.
 
 <details><summary>Answer</summary>
 

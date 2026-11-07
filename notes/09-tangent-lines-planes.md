@@ -83,6 +83,14 @@ It's the line through P₀ with normal vector ∇f(P₀).
 
 **Every curve in the plane is a level curve of something.** So: move everything to one side, call it f, and use the formula.
 
+<br>
+
+![Summary for two variables](../img/09/p40-summary.png)
+
+**How to read this box:**
+
+Everything about ∇f(x₀, y₀) in one place: it's a vector in the plane (1), it points the way of fastest increase with rate ‖∇f‖ (2), it's orthogonal to the zero-change directions (3) and to the tangent line of the level curve (4). On the surface itself, ∇f points along steepest ascent.
+
 ---
 
 ### 📐 Method: tangent line to a curve

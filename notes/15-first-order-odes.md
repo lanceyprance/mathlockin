@@ -196,7 +196,7 @@ p = −3x², ∫p = −x³, G = e^(−x³).
 
 ## 5. Keeping track of constants
 
-![Careful with constants](../img/15/p113-ivp.png)
+![Careful with constants](../img/16/p113-ivp.png)
 
 **How to read this box:**
 
