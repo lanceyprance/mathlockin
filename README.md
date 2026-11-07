@@ -2,7 +2,7 @@
 
 Cram notes for the MATH20290 final exam (UCD, 2026–27), built from the lecture notes, problem sheets 1–5, the official solutions and the sample exam.
 
-Start at **[TOPICS.md](TOPICS.md)** (progress tracker).
+Start at **[TOPICS.md](TOPICS.md)** (progress tracker). Day-by-day plan to the exam on Sat 5 Dec: **[PLAN.md](PLAN.md)**.
 
 - Formulas you must know by heart (there is **no** formula sheet in this exam): **[formula-sheet.md](formula-sheet.md)**
 - Questions I asked: **[questions-asked.md](questions-asked.md)**

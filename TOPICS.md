@@ -4,6 +4,8 @@
 
 **Weight** = how many tutorial questions use it, and whether it's on the sample exam. ●●● = must know · ●● = should know · ● = skim · ✗ = skip
 
+**Plan:** [PLAN.md](PLAN.md) (day by day to Sat 5 Dec).
+
 Mark progress by changing `☐` to `✅`. (Only ticked when you say a topic is done.)
 
 ## 🔁 Relearn
